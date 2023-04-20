@@ -11,3 +11,7 @@ There are two kind of script: A) Distribution fitting and plot generation for FI
 
 # Plots Directory
 The directory *_plots contain the plots in .pkl format for all the traces used in the study
+
+# Overleaf link
+
+The paper can be viewed at https://www.overleaf.com/read/ggjddrtpnvjj
