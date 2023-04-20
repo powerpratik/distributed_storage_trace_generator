@@ -1,5 +1,5 @@
-# distributed_storage_trace_generator
-This is the repo for the distributed trace generator
+Distributed storage system Trace Generation and modelling using distribution fitting and ML
+This is the repo for the Distributed storage system Trace Generation and modelling using distribution fitting and ML
 
 # Trace Data
 Data source are FIU home, webmail and Nexus 5 traces found in SNIA Repository found in this link http://iotta.snia.org/traces/block-io
